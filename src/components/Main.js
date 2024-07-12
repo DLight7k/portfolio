@@ -88,6 +88,7 @@ function Main() {
             <section className="experience" id="experience">
                 <div className="experience-img">
                     <img src={WakeTechCampus} alt="Wake Tech Community College Southern Campus"></img>
+                    <p>Wake Tech's Campuses & Centers | WaKE Tech. (2024, May 28). Wake Tech. <a href="https://www.waketech.edu/about-wake-tech/campuses-centers" rel="noreferrer" target="_blank">https://www.waketech.edu/about-wake-tech/campuses-centers</a></p>
                 </div>
 
                 <div className="experience-content">

@@ -242,6 +242,16 @@ span {
   border: 1rem solid var(--old-lace);
   border-radius: 3rem;
 }
+.experience-img p {
+  margin-left: 5%;
+}
+.experience a {
+  color: var(--corvette);
+  transition: 0.5s ease;
+}
+.experience a:hover {
+  color: var(--chestnut-rose);
+}
 .experience-content h2 {
   margin-bottom: 1rem;
   text-align: left;
