@@ -6,8 +6,8 @@ function Footer() {
     return (
         <footer className="footer">
             <div className="footer-icons-container">
-                <FaSquareGithub className="footer-icons"/>
-                <FaLinkedin className="footer-icons"/>
+                <a href="https://github.com/DLight7k" rel="noreferrer" target="_blank"><FaSquareGithub className="footer-icons"/></a>
+                <a href="https://www.linkedin.com/in/desmond-reese-1725432b9/" rel="noreferrer" target="_blank"><FaLinkedin className="footer-icons"/></a>
             </div>
             <p>Copyright &copy; 2024, Desmond Reese</p>
         </footer>
