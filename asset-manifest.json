@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.932b132d.css",
+    "main.js": "/portfolio/static/js/main.43950c61.js",
+    "static/media/adt.png": "/portfolio/static/media/adt.f3f90ed2d007f6431960.png",
+    "static/media/Portrait.jpg": "/portfolio/static/media/Portrait.ba803a71196e5a53b31f.jpg",
+    "static/media/resume_assignment.png": "/portfolio/static/media/resume_assignment.51f55384b0ff5553f190.png",
+    "static/media/sprout&grow.jpg": "/portfolio/static/media/sprout&grow.1bbe6d5472589b8f2c03.jpg",
+    "static/media/current_resume.pdf": "/portfolio/static/media/current_resume.861d9b31f0e1b9ed8a14.pdf",
+    "static/media/waketech_campus.jpg": "/portfolio/static/media/waketech_campus.3c3764b66c4c0993651e.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.932b132d.css.map": "/portfolio/static/css/main.932b132d.css.map",
+    "main.43950c61.js.map": "/portfolio/static/js/main.43950c61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.932b132d.css",
+    "static/js/main.43950c61.js"
+  ]
+}
